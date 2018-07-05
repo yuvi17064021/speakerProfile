@@ -121,4 +121,5 @@ html, body{
 
 @media (max-width: 770px) {
   .share { display: none; }
+  #Twitter { display: inline-block;; }
 }
