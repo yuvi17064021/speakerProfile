@@ -1,5 +1,4 @@
 html, body{
-  background: url(./bg.jpg)  no-repeat center center;
   background-attachment: fixed;
   background-size: cover;
   height: 100%;
@@ -22,7 +21,7 @@ html, body{
 }
 
 a{
-  color: #2196f3;
+  color: black;
 }
 
 .header ul li:hover{
@@ -56,13 +55,14 @@ a{
 }
 
 .same li a.logo{
-  color: black;
+  color: #2196f3;
 }
 
 .main {
   width: 100%;
   height: 93%;
   overflow: scroll;
+    background-color: #2196f3b3;
 }
 
 .img img{
